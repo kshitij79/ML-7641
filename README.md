@@ -17,10 +17,10 @@ Our ongoing objectives include:
 #### Midterm Methods and Results
 To optimize QA systems with BERT, we have:
 
-- Employed QA datasets like CommonsenseQA and SQuAD to cover a broad range of questions.
+- Employed QA dataset SQuAD to cover a broad range of questions.
 - Integrated and fine-tuned the pre-trained BERT model to meet specific QA requirements.
-- Monitored performance through metrics such as prediction accuracy, F1 score, and responsiveness.
-- Explored regularization and optimization techniques to refine the model and prevent overfitting.
+- Monitored performance through metrics such as prediction accuracy, F1 score, and latency/responsiveness.
+- Explored optimization techniques and hyperparameter tuning to refine the model and prevent overfitting.
 - Begun enhancing interpretability by delving into BERT’s decision-making layers.
 - Focused on ensuring the model's deployment remains scalable, efficient, and accessible.
 
