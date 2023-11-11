@@ -1,32 +1,31 @@
 # ML-7641-Project-Group-50
-## BERT Integration in Question-Answering (QA) Systems 
-### Introduction
-In the ever-evolving landscape of Natural Language Processing (NLP), models that can understand and generate human-like responses have become paramount. BERT (Bidirectional Encoder Representations from Transformers) is a revolutionary architecture that has redefined benchmarks in NLP tasks. This repository delves deep into integrating BERT into QA tasks to enhance the performance and human-like conversational abilities.
+## BERT Integration in Question-Answering (QA) Systems
 
-### Problem Definition
-The main objectives are:
+### Midterm Progress Update
 
-- Harnessing BERT’s bidirectional understanding to enhance accuracy in QA systems.
-- Understanding modifications and fine-tuning techniques to adapt BERT for diverse QA tasks.
-- Maintaining or improving scalability and efficiency with the integration of the BERT model.
-- Leveraging BERT to make QA systems robust against ambiguous or poorly framed questions.
+#### Introduction
+In the ever-evolving landscape of Natural Language Processing (NLP), the quest for models capable of understanding and generating human-like responses is crucial. BERT (Bidirectional Encoder Representations from Transformers) has emerged as a groundbreaking architecture, redefining benchmarks in NLP tasks. Our project is centered around integrating BERT into QA tasks, aiming to significantly enhance performance and emulate human-like conversational abilities more closely.
 
-### Methods
-Our strategy for optimizing QA systems using BERT involves:
+#### Problem Definition Update
+Our ongoing objectives include:
 
-Utilizing QA datasets like CommonsenseQA and SQuAD for a wide range of questions.
-- Integrating the pre-trained BERT model and fine-tuning for QA demands.
-- Monitoring performance using metrics like prediction accuracy, F1 score, and responsiveness.
-- Exploring regularization and optimization techniques.
-- Enhancing interpretability by understanding BERT’s decision-making layers.
-- Ensuring the model’s deployment is scalable, efficient, and accessible.
+- Utilizing BERT’s bidirectional context understanding to enhance QA systems' accuracy.
+- Adapting and fine-tuning BERT for diverse QA tasks, understanding the required modifications.
+- Balancing scalability and efficiency in QA systems while integrating the computationally intensive BERT model.
+- Making QA systems more robust against ambiguous and poorly framed questions using BERT’s capabilities.
 
-### Potential Results and Discussion
-By incorporating BERT into QA systems, we expect:
+#### Midterm Methods and Results
+To optimize QA systems with BERT, we have:
 
-- Increased prediction accuracy.
-- Enhanced robustness against diverse queries.
-- Better model interpretability.
-- Improved scalability.
+- Employed QA datasets like CommonsenseQA and SQuAD to cover a broad range of questions.
+- Integrated and fine-tuned the pre-trained BERT model to meet specific QA requirements.
+- Monitored performance through metrics such as prediction accuracy, F1 score, and responsiveness.
+- Explored regularization and optimization techniques to refine the model and prevent overfitting.
+- Begun enhancing interpretability by delving into BERT’s decision-making layers.
+- Focused on ensuring the model's deployment remains scalable, efficient, and accessible.
 
-However, there might be trade-offs between model complexity and responsiveness due to BERT's computational demands. We'll also delve into BERT's decision-making layers and assess its adaptability for large-scale deployment.
+Our initial results have shown promising improvements in prediction accuracy and response efficiency. However, we are also observing the complexities involved in balancing model performance with computational demands.
+
+#### Midterm Discussion
+Our midterm phase has brought forward insightful findings and challenges. We are exploring BERT's intricate decision-making process to better understand and interpret its capabilities. As we advance, we aim to address the trade-offs between model complexity and responsiveness, given BERT's computational requirements. Our ongoing efforts also include assessing BERT's adaptability for broader, large-scale deployment in diverse QA scenarios.
+
